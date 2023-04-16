@@ -26,8 +26,9 @@ const nuevoModulo = 21 % 5 === 1;
 module.exports = {
    nuevoString,
    nuevoNumero,
-   nuevoBoolean,
+   nuevoBoolean, 
    nuevaResta,
    nuevaMultiplicacion,
    nuevoModulo,
 };
+
